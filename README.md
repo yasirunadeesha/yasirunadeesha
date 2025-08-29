@@ -9,12 +9,22 @@
 <br/>
 
 <div align="center">
- 
-🔭 I’m currently working on Full-Stack Web Development Projects
-🌱 I’m learning Next.js, AWS, and Java
-⚡ I love building scalable apps and exploring cloud technologies
+
+## 👨‍💻 About Me  
+
+🔭 I’m currently working on **Full-Stack Web Development Projects** <br>  
+🌱 I’m learning **Next.js, AWS, and Java** <br>  
+⚡ I love building **scalable apps** and exploring **cloud technologies** 🚀  
+
+---
+
+### 🛠️ Tech Stack  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
+
 
 <br/>
 
