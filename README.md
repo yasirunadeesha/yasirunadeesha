@@ -10,8 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Full-Stack Web Development Projects**  
- 🌱 I’m learning **Next.js, AWS, and Java**  
+🔭 I’m currently working on Full-Stack Web Development Projects
+🌱 I’m learning Next.js, AWS, and Java
+⚡ I love building scalable apps and exploring cloud technologies
 
 </div>
 
