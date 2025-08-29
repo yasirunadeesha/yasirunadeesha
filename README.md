@@ -78,7 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yasirunadeesha&theme=tokyonight&show_icons=true&locale=en" alt="yasirunadeesha"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirunadeesha" alt="yasirunadeesha"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirunadeesha&theme=tokyonight&hide_border=true" alt="yasirunadeesha"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirunadeesha&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="yasirunadeesha"/>
