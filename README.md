@@ -31,7 +31,7 @@
 
 
 <h2 align="center">⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://x.com/https://x.com/Yasiru_Nadeesha?t=Sh9hUIT5KcVtvywwIyC3pQ&s=09" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<p  align="center"><a target="_blank" href="https://x.com/https://x.com/Yasiru_Nadeesha?t=Sh9hUIT5KcVtvywwIyC3pQ&s=09" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/yasirunadeesha" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/profile.php?id=61550000733902" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/yasirunadeesha8?igsh=YzljYTk1ODg3Zg==" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
@@ -43,7 +43,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>   <a href="mailto:yasirunadeesha8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />  </a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirunadeesha&show_icons=true&locale=en" alt="yasirunadeesha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirunadeesha&" alt="yasirunadeesha" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirunadeesha&show_icons=true&locale=en&layout=compact" alt="yasirunadeesha" />
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirunadeesha&show_icons=true&locale=en" alt="yasirunadeesha" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirunadeesha&" alt="yasirunadeesha" /></p>
+<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirunadeesha&show_icons=true&locale=en&layout=compact" alt="yasirunadeesha" />
 </p>
