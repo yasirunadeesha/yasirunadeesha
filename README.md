@@ -11,9 +11,7 @@
 <div align="center">
  
  🔭 I’m currently working on **Full-Stack Web Development Projects**  
- 🌱 I’m learning **Next.js, AWS, and Solidity**  
- 💬 Ask me about **React, Node.js, or anything tech-related!**  
- ⚡ Fun fact: **I love building cool projects & exploring new tech!**  
+ 🌱 I’m learning **Next.js, AWS, and Java**  
 
 </div>
 
