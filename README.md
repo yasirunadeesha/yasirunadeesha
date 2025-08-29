@@ -37,11 +37,11 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,postgresql,go,express,mongodb,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,java,nextjs,mysql" /><br>
 </div>
 
 ---
-
+<!--
 <h2 align="center">🔥 GitHub Stats & Activity 🔥</h2>
 <br/>
 
@@ -61,6 +61,7 @@
 </div>
 
 ---
+-->
 
 <div align="center">
   <h2>🌐 Connect With Me 🌐</h2>
