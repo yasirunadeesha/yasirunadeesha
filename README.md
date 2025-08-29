@@ -38,11 +38,12 @@
 <a target="_blank" href="https://www.dribbble.com/https://dribbble.com/nadeesha2143/about?utm_source=Clipboard_%22clipboard_about%22&utm_campaign=%22nadeesha2143%22&utm_content=%22About%20nadeesha2143%22&utm_medium=Social_Share" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a>
 <a target="_blank" href="undefinedhttps://medium.com/@yasirunadeesha8/" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@YasiruNadeesha" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/31377250/yasiru-nadeesha" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirunadeesha&show_icons=true&locale=en" alt="yasirunadeesha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirunadeesha&" alt="yasirunadeesha" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirunadeesha&show_icons=true&locale=en&layout=compact" alt="yasirunadeesha" />
+<a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/31377250/yasiru-nadeesha" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a>
   <a href="https://yyye.netlify.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>   <a href="mailto:yasirunadeesha8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />  </a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirunadeesha&show_icons=true&locale=en" alt="yasirunadeesha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirunadeesha&" alt="yasirunadeesha" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirunadeesha&show_icons=true&locale=en&layout=compact" alt="yasirunadeesha" />
+</p>
