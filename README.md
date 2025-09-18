@@ -1,5 +1,7 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yasiru nadeesha.yasiru nadeesha" />
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi%20%F0%9F%91%8B%2C%20I'm" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi%20%F0%9F%91%8B%2C%20I'm%20yasiru%20nadeesha" />
 </h1>
 
 <h1 align="center">🚀 A passionate frontend developer from</h1>
@@ -117,3 +119,18 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"><img src="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;"></a></p>
 
+<h2> 📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasiru nadeesha&theme=tokyonight&show_icons=true&locale=en" alt="yasiru nadeesha"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasiru nadeesha&theme=tokyonight&hide_border=true" alt="yasiru nadeesha"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasiru nadeesha&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="yasiru nadeesha"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasiru nadeesha" alt="yasiru nadeesha" /></a>
+</p>
+
+<h2> ❤️ Support Me</h2>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" /></a>
+  <a href="https://www.ko-fi.com/1"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" /></a>
+</p>
