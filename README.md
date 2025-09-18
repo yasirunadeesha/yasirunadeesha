@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yasiru nadeesha.yasiru nadeesha" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yasirunadeesha.yasirunadeesha" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi%20%F0%9F%91%8B%2C%20I'm%20yasiru%20nadeesha" />
@@ -122,10 +122,10 @@
 <h2> 📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasiru nadeesha&theme=tokyonight&show_icons=true&locale=en" alt="yasiru nadeesha"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasiru nadeesha&theme=tokyonight&hide_border=true" alt="yasiru nadeesha"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasiru nadeesha&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="yasiru nadeesha"/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasiru nadeesha" alt="yasiru nadeesha" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yasirunadeesha&theme=tokyonight&show_icons=true&locale=en" alt="yasirunadeesha"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirunadeesha&theme=tokyonight&hide_border=true" alt="yasirunadeesha"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirunadeesha&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="yasirunadeesha"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirunadeesha" alt="yasirunadeesha" /></a>
 </p>
 
 <h2> ❤️ Support Me</h2>
