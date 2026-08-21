@@ -5,16 +5,10 @@
 </h1>
 
  
+<a href="https://gitascii.com">
   <img
-    src="gitascii.json"
+    src="https://gitascii.com/api/yasirunadeesha?v=1787290525085"
     alt="GitAscii Widget"
     width="100%"
   />
-  
-<!-- <a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/yasirunadeesha?v=1787290268307"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a> -->
+</a>
